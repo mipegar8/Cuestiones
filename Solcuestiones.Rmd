@@ -1,0 +1,16 @@
+---
+title: "cuestiones"
+author: "Mireia Pérez García"
+date: "2023-05-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Cuestion 1
+```{r}
+
+```
+
